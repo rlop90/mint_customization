@@ -1,0 +1,27 @@
+# Nord GTK Theme 
+# Descomprimir en /home/usuario/.themes
+https://github.com/EliverLara/Nordic/releases/tag/v2.2.0
+
+# Gnome Terminal Theme
+https://github.com/nordtheme/gnome-terminal
+
+# Firefox Nord Theme
+https://github.com/EliverLara/firefox-nordic-theme
+
+# Icons
+· Zafiro Nord Dark
+https://www.cinnamon-look.org/p/1891042
+· Zafiro Nord Dark Blue
+https://www.cinnamon-look.org/p/1937741
+
+# Fonts
+www.nerdfonts.com
+Monofur 
+Hurmit
+Terminess
+Etc...
+
+# Wallpapers (Nord Theme)
+https://github.com/dxnst/nord-wallpapers
+https://wallpaperaccess.com/nord-theme
+https://github.com/dxnst/nord-backgrounds
